@@ -35,7 +35,7 @@ namespace git
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(846, 473);
+            this.ClientSize = new System.Drawing.Size(693, 473);
             this.Name = "main";
             this.Text = "main";
             this.Load += new System.EventHandler(this.Form1_Load);
